@@ -3,7 +3,7 @@
 I'm a full stack developer, primarily using Typescript/Javascript and Python.
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=CrispyBacon1999&theme=midnight-purple" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=CrispyBacon1999&hide_border=true&theme=midnight-purple" />
 
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrispyBacon1999&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple" />
